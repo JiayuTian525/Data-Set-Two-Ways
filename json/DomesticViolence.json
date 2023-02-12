@@ -1,0 +1,29 @@
+{
+   "DomesticViolence": [
+        {
+            "region": "Africa",
+            "percentage": 33,
+            "color": "rgb(119,61,61)"
+        },
+        {
+            "region": "Americas",
+            "percentage": 25,
+            "color": "rgb(191,153,153)"
+        },    
+        {
+            "region": "Asia",
+            "percentage": 27,
+            "color": "rgb(170,123,133)"
+        },
+        {
+            "region": "Europe",
+            "percentage": 20,
+            "color": "rgb(217,191,193)"
+        },
+        {
+            "region": "Oceania",
+            "percentage": 30,
+            "color": "rgb(153,97,97)"
+        }
+    ]
+}
